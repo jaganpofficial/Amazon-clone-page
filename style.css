@@ -257,12 +257,7 @@ ul a {
     align-items: center;
 }
 
-.logo { 
-    background-image: url(/images/amazon_logo.png);
-    background-size: cover;
-    height: 50px;
-    width: 100px;
-}
+
 
 .foot-panel4 {
     background-color: #0f1111;
